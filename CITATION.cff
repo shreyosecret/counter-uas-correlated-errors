@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Correlated Verifier Errors in Counter-UAS Perception: Clustering, Cross-Sensor Dependence, and Label-Free Auditing (code)"
+authors:
+  - family-names: Ghosh
+    given-names: Shreyo
+    orcid: "https://orcid.org/0009-0007-6467-9939"
+    affiliation: "Rutgers University-New Brunswick"
+license: MIT
+repository-code: "https://github.com/shreyosecret/counter-uas-correlated-errors"
